@@ -34,9 +34,10 @@
             d. Average fare per ride:     $34
             e. Average fare per driver:   $55
 
-<Fig6="PyBer_Analysis/analysis/Fig6.png">
+![Fig6.png](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/Fig6.png>)
 
  ## Summary:
+ 
  
      We have the following three recommendations for the CEO of Pyber after our analysis:
      
