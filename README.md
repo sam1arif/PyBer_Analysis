@@ -34,7 +34,6 @@
             d. Average fare per ride:     $34
             e. Average fare per driver:   $55
 
-![Fig6.png](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/Fig6.png>)
 
  ## Summary:
  
