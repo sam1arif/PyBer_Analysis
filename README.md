@@ -43,5 +43,4 @@
           1. Urban drivers make significantly less money than rural drivers, while living expenses are also high in urban areas. To address this issue, the average fare price for urban cities should go up since the demand is high anyways. This not only gives incentive to drivers but also increases Pyber's revenues. 
           2. Rural cities do not have enough drivers, and it seems because of this Pyber is not doing more rides which affects the overall revenue for the company. Recruiting more drivers could help increase the number of rides while decrease travel distance; it could also help if there are peak hours or increase in use of Pyber in rural areas.
           3. The average fare for riders in rural areas is higher than urban and suburban areas. Maybe the number of drivers is affecting this as rural distances are usually longer. So recruiting more drivers in rural areas could lower the cost for rural riders. 
-          
-          ![PyBer_fare_summary.png](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png>)
+          ![PyBer_fare_summary](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png>)
