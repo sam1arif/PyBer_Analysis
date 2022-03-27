@@ -33,9 +33,8 @@
             c. Total fare collected:      $4,328
             d. Average fare per ride:     $34
             e. Average fare per driver:   $55
-     ![Fig6](https://user-images.githubusercontent.com/96811934/160284616-78dc73b2-d62a-47a7-9ed7-1c7fa581dbd9.png)
-     ![Fig7](https://user-images.githubusercontent.com/96811934/160284632-94dbe080-f989-443e-b21e-1ddec2d41bc6.png)
 
+<Fig6="PyBer_Analysis/analysis/Fig6.png">
 
  ## Summary:
  
