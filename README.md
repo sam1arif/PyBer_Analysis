@@ -33,10 +33,10 @@
             c. Total fare collected:      $4,328
             d. Average fare per ride:     $34
             e. Average fare per driver:   $55
-     
-            ![image](https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/Fig6.png)
-             ![image](https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/Fig7.png)
-            
+     ![Fig6](https://user-images.githubusercontent.com/96811934/160284616-78dc73b2-d62a-47a7-9ed7-1c7fa581dbd9.png)
+     ![Fig7](https://user-images.githubusercontent.com/96811934/160284632-94dbe080-f989-443e-b21e-1ddec2d41bc6.png)
+
+
  ## Summary:
  
      We have the following three recommendations for the CEO of Pyber after our analysis:
@@ -45,4 +45,4 @@
           2. Rural cities do not have enough drivers, and it seems because of this Pyber is not doing more rides which affects the overall revenue for the company. Recruiting more drivers could help increase the number of rides while decrease travel distance; it could also help if there are peak hours or increase in use of Pyber in rural areas.
           3. The average fare for riders in rural areas is higher than urban and suburban areas. Maybe the number of drivers is affecting this as rural distances are usually longer. So recruiting more drivers in rural areas could lower the cost for rural riders. 
           
-          ![image](https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+          ![PyBer_fare_summary](https://user-images.githubusercontent.com/96811934/160284638-25177eda-1a36-42d0-837f-af7ed229434d.png)
