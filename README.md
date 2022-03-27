@@ -45,5 +45,5 @@
           3. The average fare for riders in rural areas is higher than urban and suburban areas. Maybe the number of drivers is affecting this as rural distances are usually longer. So recruiting more drivers in rural areas could lower the cost for rural riders. 
           
           ![PyBer_fare_summary.png](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png>)
-          <img src='https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png'>
+          <img src='analysis/PyBer_fare_summary.png'>
          
