@@ -35,6 +35,10 @@
             e. Average fare per driver:   $55
             
             
+    ![PyBer_fare_summary](https://user-images.githubusercontent.com/96811934/160283279-9811360b-6dcb-495e-8456-77498a1c1ee7.png)
+
+            
+            
  ## Summary:
  
      We have the following three recommendations for the CEO of Pyber after our analysis:
@@ -42,3 +46,8 @@
           1. Urban drivers make significantly less money than rural drivers, while living expenses are also high in urban areas. To address this issue, the average fare price for urban cities should go up since the demand is high anyways. This not only gives incentive to drivers but also increases Pyber's revenues. 
           2. Rural cities do not have enough drivers, and it seems because of this Pyber is not doing more rides which affects the overall revenue for the company. Recruiting more drivers could help increase the number of rides while decrease travel distance; it could also help if there are peak hours or increase in use of Pyber in rural areas.
           3. The average fare for riders in rural areas is higher than urban and suburban areas. Maybe the number of drivers is affecting this as rural distances are usually longer. So recruiting more drivers in rural areas could lower the cost for rural riders. 
+          
+          ![Fig7](https://user-images.githubusercontent.com/96811934/160283295-9fd9e5b1-46b3-436c-befe-1841033226f1.png)
+![Fig7](https://user-images.githubusercontent.com/96811934/160283301-921a0071-0e15-4f46-ba49-60ce3370f49a.png)
+
+          
