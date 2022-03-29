@@ -5,15 +5,16 @@
     
 ## Results:
    
-   Our findings for all cities:
+   ### Our findings for all cities:
         
         1. Total number of rides: 2,375
         2. Total fare: $63,538.64
         3. Total number of drivers: 2,973
       
-   Our findings for city type:
+   ### Our findings for city type:
         
         1. Urban:
+        
             a. Total number of rides:     1,625 
             b. Total number of drivers:   2,405
             c. Total fare collected:      $39,854
@@ -21,6 +22,7 @@
             e. Average fare per driver:   $16
         
         2. Suburban:
+        
             a. Total number of rides:     625 
             b. Total number of drivers:   490
             c. Total fare collected:      $19,356
@@ -28,12 +30,13 @@
             e. Average fare per driver:   $39
         
         3. Rural:
+        
             a. Total number of rides:     125
             b. Total number of drivers:   78
             c. Total fare collected:      $4,328
             d. Average fare per ride:     $34
             e. Average fare per driver:   $55
-
+![Fig6.png](<https://github.com/sam1arif/PyBer_Analysis/blob/main/analysis/Fig6.png>)
 
  ## Summary:
  
